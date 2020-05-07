@@ -70,7 +70,7 @@ public  class RectangleFigure implements Figure{
 
     @Override
     public String print() {
-        return "Rectangulo\n";
+        return "Rectangulo, ";
     }
 
    

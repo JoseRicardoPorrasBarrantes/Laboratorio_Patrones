@@ -62,7 +62,7 @@ public  class CircleFigure implements Figure{
 
     @Override
     public String print() {
-        return "Circulo\n";
+        return "Circulo, ";
         }
 
    

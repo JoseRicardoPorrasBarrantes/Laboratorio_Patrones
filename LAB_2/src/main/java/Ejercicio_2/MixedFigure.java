@@ -42,7 +42,7 @@ public class MixedFigure implements CompositeMixedFigure, Figure {
             row += it.next().print();
         }
 
-        return "Figura mixta contiene(" + row + ")";
+        return "\nFigura mixta contiene(" + row + ")";
     }
 
 }
