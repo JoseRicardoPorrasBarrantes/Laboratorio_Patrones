@@ -9,6 +9,6 @@ package Ejercicio_2;
  *
  * @author Vulkmir
  */
-public interface IBuilder {
-    Figure build();
+public class HOLIS {
+    
 }

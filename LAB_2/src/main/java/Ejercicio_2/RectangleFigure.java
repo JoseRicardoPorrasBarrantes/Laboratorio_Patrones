@@ -73,6 +73,20 @@ public  class RectangleFigure implements Figure{
         return "Rectangulo, ";
     }
 
+    
+    
+    
+    
+    @Override
+    public Figure build() {
+        return null;
+    }
+
+    
+    
+    
+
+
    
     
 }

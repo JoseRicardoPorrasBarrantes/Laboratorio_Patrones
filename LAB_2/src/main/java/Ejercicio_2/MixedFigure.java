@@ -45,4 +45,9 @@ public class MixedFigure implements CompositeMixedFigure, Figure {
         return "\nFigura mixta contiene(" + row + ")";
     }
 
+    @Override
+    public Figure build() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
